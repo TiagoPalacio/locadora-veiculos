@@ -171,7 +171,7 @@ src/main/java/br/com/locadora/
 
 Usamos IA generativa na **Parte 1**, como o roteiro permite.
 
-- **Modelo:** Claude Opus 5.5 (Anthropic), pelo Claude Code.
+- **Modelo:** Claude Opus 5.5 (Anthropic), pelo Claude Code e Gemini Argon 4 (Google) pelo Antigravity IDE.
 - **Onde foi usada:** geração da estrutura inicial do projeto, das classes Java (entidades, Strategy, Decorator e menu de console), do `pom.xml`, do `.gitignore` e do rascunho deste README.
 - **O que a equipe fez:** revisão do código, testes de execução, ajustes, organização dos commits e publicação no GitHub. Todos os integrantes estudaram a implementação para explicá-la na arguição.
 
